@@ -1,2 +1,2 @@
 # lazy-loading
-Angular projects
+Angular lazy loading projects
